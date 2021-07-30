@@ -9,21 +9,17 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+    .row
+      .col-lg-4
+        figure.mb-5
+          img(src="@/assets/curso/t0-i1.png", alt="imagen decorativa")
+
+      .col-lg-8
+        p.mb-4  Se realiza una breve descripción de una de las herramientas más utilizadas para el desarrollo de aplicaciones móviles híbridas, <b>que permite la realización de actividades de diseño front-end y pruebas directas de interfaz de usuario sobre los dispositivos móviles,</b> de manera rápida y sencilla. Son aplicaciones que hacen más natural todo el proceso de diseño y desarrollo de las apps; una de sus principales características es la visualización e interacción de la aplicación en tiempo real sin necesidad de utilizar emuladores, realizando la simulación de la funcionalidad directamente sobre el dispositivo físico. <b>Se puede utilizar un IPhone, un Android, o los dos, de manera directa.</b>
+        .cajon.color-secundario.p-4
+          p.mb-3  Para la elaboración de este componente, se abordaron varios autores conocidos <b>en diseño de aplicación e informe de arquitectura,</b> de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en <b>acercarse a asuntos básicos de la programación de aplicaciones para dispositivos móviles.</b>
     
-    p.mb-5 La necesidad de mitigar la pandemia por COVID-19 ha obligado a la comunidad científica internacional, a desarrollar una serie de investigaciones y desarrollos tendientes a presentar una vacuna para hacerle frente a esta enfermedad que aumenta día a día su morbi mortalidad en Colombia. Es así, como en diciembre de 2020, la comunidad científica presenta los resultados de varios desarrollos de vacunas, que ofrecen eficacia y seguridad, respaldados por estudios clínicos rigurosos.
 
-    figure.mb-5
-      img(src="@/assets/curso/banner-intro.jpg", alt="Texto que describa la imagen")
-      figcaption Imagen 1. Vacunación
-
-    p.mb-0 La llegada de nuevas vacunas al país supone un reto para el talento humano en salud responsable de la vacunación y desarrollar habilidades para ofrecer una orientación oportuna y segura a las personas objeto de la vacuna.
-      br
-      br
-      | En ese orden de ideas, este componente formativo guía al aprendiz hacia la identificación de los aspectos normativos, técnicos y operativos de la vacunación contra COVID19 en Colombia y de las generalidades de la infección por SARS-2 COVID 19.
 
 </template>
 

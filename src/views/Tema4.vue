@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        span  3
-      h1 Principales componentes de Playground   
+        span  4
+      h1 Principales componentes de Playground 
 
 
 
