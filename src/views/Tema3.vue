@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span  3
       h1 Principales componentes de Playground   
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5.slideInLeft
       .col-lg-8
         .bloque-texto-a.color-secundario.p-4.p-md-5
           .row.m-0.align-items-center.justify-content-center
@@ -42,7 +42,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
-        .cajon.color-acento-contenido.customBox.p-4
+        .cajon.color-acento-contenido.customBox.p-4(data-aos="slide-up")
           .row
             .col-lg-7.p-4
               figure.mb-2
@@ -59,7 +59,7 @@
       h2 3.2  Componentes de la aplicación
     .row.justify-content-center.mb-5
       .col-lg-10
-        .cajon.color-acento-contenido.customBox.p-4
+        .cajon.color-acento-contenido.customBox.p-4(data-aos="slide-up")
           .row
             .col-lg-7.p-4
               figure.mb-2
@@ -75,7 +75,7 @@
 
     #t_3_3.titulo-segundo
       h2 3.3  Comunidad de desarrollo y soporte  
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-up")
       .col-lg-2
         figure
           img(src="@/assets/curso/t3-ic3.svg", alt="imagen decorativa")

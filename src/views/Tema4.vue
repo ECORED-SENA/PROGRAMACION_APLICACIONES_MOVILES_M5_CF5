@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span  4
       h1 Principales componentes de Playground 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.slideInLeft
       .col-lg-2
         figure
           img(src="@/assets/curso/t3-ic3.svg", alt="imagen decorativa")

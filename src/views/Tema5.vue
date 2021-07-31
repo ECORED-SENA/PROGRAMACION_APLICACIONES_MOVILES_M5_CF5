@@ -8,7 +8,7 @@
       h1 Informe de arquitectura
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.slideInLeft
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t2-i1.jpg')})`}"
           )
@@ -18,13 +18,13 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         figcaption.customCaption.mb-3 <b>Figura</b> La arquitectura de aplicación móvil
-        figure
+        figure(data-aos="fade-up")
           img(src='@/assets/curso/t5-i2.png', alt='arquitectura de aplicación móvil')
         figcaption.mb-5 Nota. Tomada de https://1library.co/document/yrk5x5oz-arquitectura-desarrollo-aplicaciones-educativas-dispositivos-moviles.html
 
     .row.justify-content-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/t5-i3.svg', alt='imagen decorativa')
       .col-lg-8
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
@@ -47,7 +47,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          p Para comenzar la acción práctica de construir una aplicación móvil híbrida, de acuerdo con la arquitectura requerida y con criterios técnicos, visualice el video que aquí se propone y desarrolle, paralelamente, la elaboración de su app móvil.
+          p Para comenzar la acción práctica de construir una aplicación móvil híbrida, de acuerdo con la arquitectura requerida y con criterios técnicos, <b>visualice el video que aquí se propone y desarrolle, paralelamente, la elaboración de su app móvil.</b>
 
     figure.mb-5
       .video

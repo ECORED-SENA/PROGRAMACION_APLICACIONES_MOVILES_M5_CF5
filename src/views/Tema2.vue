@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span  2
       h1 Diseño y desarrollo sobre Playground
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5.slideInLeft
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -23,7 +23,7 @@
           .row.justify-content-center.mb-4
             .col-lg-10
               figcaption.customCaption.mb-3 <b>Figura</b> Entorno de desarrollo NativeScript Playground
-              figure.mb-3
+              figure.mb-3.slideInRight
                 img.shadow-box(src="@/assets/curso/t2-i2.jpg", alt="imagen decorativa")
               figcaption  Nota. Tomada de ejemplo real de ejecución en My Playground
 
