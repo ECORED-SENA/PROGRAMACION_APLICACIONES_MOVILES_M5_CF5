@@ -106,21 +106,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Ancheta, W. (2016). Una introducción a NativeScript. Code Envato Tuts+.',
+        'Ancheta, W. (2016). <i>Una introducción a NativeScript.</i> Code Envato Tuts+.',
       link:
         'https://code.tutsplus.com/es/articles/an-introduction-to-nativescript--cms-26771',
     },
     {
       referencia:
-        'Atanasov, G. (2016). NativeScript Android Application Package Size Revealed. The NativeScript Blog.',
+        'Atanasov, G. (2016). <i>NativeScript Android Application Package Size Revealed.</i> The NativeScript Blog.',
+      link:
+        'https://blog.nativescript.org/nativescript-android-application-package-size-revealed/index.html',
     },
     {
-      referencia: 'NativeScript. (2020). Layout Properties.',
+      referencia: 'NativeScript. (2020). <i>Layout Properties</i>.',
       link: 'https://docs.nativescript.org/ui-and-styling.html#listview',
     },
     {
       referencia:
-        'RIP Tutorial. (2020). Learn programming through books and examples.',
+        'RIP Tutorial. (2020). <i>Learn programming through books and examples.</i>',
       link: 'https://riptutorial.com/es/home',
     },
   ],
@@ -128,7 +130,7 @@ export default {
     {
       termino: 'Aplicación móvil',
       significado:
-        'Es un programa o software diseñado para ser utilizado en smartphones, tabletas y otros dispositivos móviles.',
+        'Es un programa o <i>software</i> diseñado para ser utilizado en <i>smartphones</i>, tabletas y otros dispositivos móviles.',
     },
     {
       termino: 'Código QR',
@@ -138,12 +140,12 @@ export default {
     {
       termino: 'Emulador',
       significado:
-        'El emulador permite realizar las pruebas sobre un entorno simulado de un dispositivo móvil, permitiendo la versatilidad de trabajar sobre varias versiones de sistemas operativos y diferentes modelos de smartphone para probar su rendimiento y funcionalidad en la etapa de diseño y desarrollo.',
+        'El emulador permite realizar las pruebas sobre un entorno simulado de un dispositivo móvil, permitiendo la versatilidad de trabajar sobre varias versiones de sistemas operativos y diferentes modelos de <i>smartphone</i> para probar su rendimiento y funcionalidad en la etapa de diseño y desarrollo.',
     },
     {
-      termino: 'Frameworks',
+      termino: '<i>Frameworks</i>',
       significado:
-        'Es una compilación de conceptos estructurados que brindan un soporte tecnológico conformado por módulos, librerías y paquetes de software que buscan servir como la base para la organización y desarrollo de software; lo que hacen estas herramientas es facilitar la programación de aplicaciones y software en general.',
+        'Es una compilación de conceptos estructurados que brindan un soporte tecnológico conformado por módulos, librerías y paquetes de <i>software</i> que buscan servir como la base para la organización y desarrollo de <i>software</i>; lo que hacen estas herramientas es facilitar la programación de aplicaciones y <i>software</i> en general.',
     },
     {
       termino: 'Plantillas',
@@ -154,19 +156,19 @@ export default {
   complementario: [
     {
       texto:
-        'Características de NativeScript: Programando con Grover. (2020a, 23 mayo). NativeScript Vue - Instalación local [Video]. YouTube. ',
+        'Características de <i>NativeScript</i>: Programando con Grover. (2020a, 23 mayo). <i>NativeScript Vue - Instalación local</i> [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/rF_OEj-H9f4',
     },
     {
       texto:
-        'William Juan. (2021, 18 marzo). NativeScript & Angular: Movies App UI - Page and Layout (Speed Code) [Video]. YouTube.',
+        'William Juan. (2021, 18 marzo). <i>NativeScript & Angular: Movies App UI - Page and Layout (Speed Code)</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/EUf3pQUHc74',
     },
     {
       texto:
-        'Instalación en los dispositivos móviles: Programando con Grover. (2020b, abril 9). NativeScript Vue Introducción - Creando Apps Móviles Nativas con Vue.js [Video]. YouTube.',
+        'Instalación en los dispositivos móviles: Programando con Grover. (2020b, abril 9). <i>NativeScript Vue Introducción - Creando Apps Móviles Nativas con Vue.js</i>  [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/kkCDDYpp4pg',
     },
@@ -184,7 +186,27 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Cuervo Nieto',
+        cargo: 'Instructor',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluador Instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Revisión y corrección de estilo',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -192,43 +214,60 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jorge Armando Villamizar Moreno',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
