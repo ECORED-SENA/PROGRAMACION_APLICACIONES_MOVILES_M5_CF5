@@ -45,7 +45,7 @@
             .col.mb-3.mb-sm-0
               p <b>Para afianzar sus conocimientos y habilidades</b> en el proceso de instalación en los dispositivos móviles, con miras a la construcción de una nueva aplicación móvil, visite la siguiente guía PDF y visite cada uno de los enlaces que allí se muestran.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_EnlacesRecomendados.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
