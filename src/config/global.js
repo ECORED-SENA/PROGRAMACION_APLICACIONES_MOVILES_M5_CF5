@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diseño de aplicación e informe de arquitectura',
     descripcionCurso:
-      'En este componente, al aprendiz recibirá una breve explicación sobre uno de los <i>frameworks</i> más utilizados por los desarrolladores y con mejores características de rendimiento; conocerá facilidades que dicha herramienta aporta al desarrollo de aplicaciones móviles híbridas y a la realización de pruebas de diseño y funcionalidad, en tiempo real y directamente sobre los dispositivos móviles IPhone y dispositivos Android.',
+      'En este componente, al aprendiz recibirá una breve explicación sobre uno de los <i>frameworks</i> más utilizados por los desarrolladores y con mejores características de rendimiento; conocerá facilidades que dicha herramienta aporta al desarrollo de aplicaciones móviles híbridas y a la realización de pruebas de diseño y funcionalidad, en tiempo real y directamente sobre los dispositivos móviles iPhone y dispositivos Android.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -23,21 +23,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Características de NativeScript',
+        titulo: 'Características de <i>NativeScript</i>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Diseño y desarrollo sobre Playground',
+        titulo: 'Diseño y desarrollo sobre <i>Playground</i>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Principales componentes de <i>Playground</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -64,7 +64,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Principales componentes de Playground',
+        titulo: 'Instalación en los dispositivos móviles',
         desarrolloContenidos: true,
       },
       {
