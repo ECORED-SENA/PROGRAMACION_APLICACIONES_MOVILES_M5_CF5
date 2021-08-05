@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t2-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La arquitectura de software de una aplicación móvil, o de cualquier sistema informático, permite identificar y definir la estructura o estructuras de todos los componentes que integrarán el sistema, es decir, define los elementos de software y hardware y las relaciones que existen entre ellos.
+            p.mb-0 La arquitectura de <i>software</i> de una aplicación móvil, o de cualquier sistema informático, permite identificar y definir la estructura o estructuras de todos los componentes que integrarán el sistema, es decir, define los elementos de <i>software</i> y <i>hardware</i> y las relaciones que existen entre ellos.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -34,15 +34,15 @@
 
           div(titulo="Cliente pesado")
             .col-md-12
-              p También llamado <b>‘cliente enriquecido’ (rich client).</b> Implica que la capa de negocio y la de datos están o se encuentran alojadas en el mismo dispositivo. Una aplicación que almacena y recupera datos localmente, en lugar de realizarlo de forma remota, facilita la interacción con otros recursos internos. Las aplicaciones del lado cliente mantienen una apariencia coherente y admiten una interfaz de usuario compleja.
+              p También llamado <b>‘cliente enriquecido’ (<i>rich client</i>).</b> Implica que la capa de negocio y la de datos están o se encuentran alojadas en el mismo dispositivo. Una aplicación que almacena y recupera datos localmente, en lugar de realizarlo de forma remota, facilita la interacción con otros recursos internos. Las aplicaciones del lado cliente mantienen una apariencia coherente y admiten una interfaz de usuario compleja.
             
           div(titulo="Cliente liviano")
             .col-md-12
-              p <b>Es un cliente ligero (thin client).</b> Aquí, las capas de datos y de negocio se encuentran alojadas en un servidor remoto.
+              p <b>Es un cliente ligero (<i>thin client</i>).</b> Aquí, las capas de datos y de negocio se encuentran alojadas en un servidor remoto.
 
           div(titulo="Aplicación de Internet enriquecida")
             .col-md-12
-              p Se conoce también como <b>‘aplicación rica de Internet’ (rich internet application).</b> Es el caso en que se utiliza una interfaz de usuario robusta y, para su funcionamiento, requiere conexión a Internet, evitando utilizar recursos locales; esta se caracteriza porque sus capas toman toda la información de Internet, no de manera centralizada sino de diferentes fuentes en paralelo.
+              p Se conoce también como <b>‘aplicación rica de Internet’ (<i>rich internet application</i>).</b> Es el caso en que se utiliza una interfaz de usuario robusta y, para su funcionamiento, requiere conexión a Internet, evitando utilizar recursos locales; esta se caracteriza porque sus capas toman toda la información de Internet, no de manera centralizada sino de diferentes fuentes en paralelo.
 
     .row.justify-content-center.mb-5
       .col-lg-10
