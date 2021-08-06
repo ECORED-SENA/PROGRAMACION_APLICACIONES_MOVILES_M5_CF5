@@ -22,7 +22,7 @@
           p.mb-4 Se procede a realizar el trabajo sobre la plataforma web Playground; este es un entorno web de <i>NativeScript</i> que permite el desarrollo de aplicaciones sin la necesidad de instalación de programas. Esa es una de las grandes ventajas de este framework. No es necesario contar con una máquina de desarrollo con características de alta gama para realizar la creación de una aplicación satisfactoria.
           .row.justify-content-center.mb-4
             .col-lg-10
-              figcaption.customCaption.mb-3 <b>Figura</b> Entorno de desarrollo <i>NativeScript Playground</i>
+              figcaption.customCaption.mb-3 <b>Figura 1</b> Entorno de desarrollo <i>NativeScript Playground</i>
               figure.mb-3.slideInRight
                 img.shadow-box(src="@/assets/curso/t2-i2.jpg", alt="imagen decorativa")
               figcaption  Nota. Tomada de ejemplo real de ejecución en <i>My Playground</i>

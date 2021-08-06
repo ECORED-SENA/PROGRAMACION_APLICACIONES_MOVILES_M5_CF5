@@ -10,14 +10,14 @@
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.slideInLeft
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/t2-i1.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/t5-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 La arquitectura de <i>software</i> de una aplicación móvil, o de cualquier sistema informático, permite identificar y definir la estructura o estructuras de todos los componentes que integrarán el sistema, es decir, define los elementos de <i>software</i> y <i>hardware</i> y las relaciones que existen entre ellos.
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        figcaption.customCaption.mb-3 <b>Figura</b> La arquitectura de aplicación móvil
+        figcaption.customCaption.mb-3 <b>Figura 10</b> La arquitectura de aplicación móvil
         figure(data-aos="fade-up")
           img(src='@/assets/curso/t5-i2.png', alt='arquitectura de aplicación móvil')
         figcaption.mb-5 Nota. Tomada de https://1library.co/document/yrk5x5oz-arquitectura-desarrollo-aplicaciones-educativas-dispositivos-moviles.html

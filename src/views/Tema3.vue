@@ -8,7 +8,7 @@
       h1 Principales componentes de <i>Playground</i>   
     .row.align-items-center.justify-content-center.mb-5.slideInLeft
       .col-lg-8
-        .bloque-texto-a.color-secundario.p-4.p-md-5
+        .bloque-texto-a.color-primario.p-4.p-md-5
           .row.m-0.align-items-center.justify-content-center
             .col-lg-4.mb-4.mb-lg-0
               figure
@@ -22,7 +22,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             p.mb-4 Observe, en detalle, los elementos contenidos en la figura, que le muestran los componentes del entorno de desarrollo en <i>Playground</i>.
-            figcaption.customCaption.mb-3 <b>Figura</b> Principales componentes del entorno de desarrollo de <i>Playground</i>
+            figcaption.customCaption.mb-3 <b>Figura 2</b> Principales componentes del entorno de desarrollo de <i>Playground</i>
             figure.mb-4
               img.shadow-box(src="@/assets/curso/t3-i2.jpg", alt="imagen decorativa") 
             figcaption Nota. Tomada y adaptada de los servicios de ayuda de <i>Playground</i>.
@@ -32,7 +32,7 @@
           .col-md-10.mb-4.mb-md-0
             p.mb-4 Reconozca, en esta figura, los frameworks de desarrollo en <i>Playground</i> para el proceso de desarrollo de una aplicación móvil híbrida, aplicable a su proyecto personal de aplicación móvil.
           .col-lg-5
-            figcaption.customCaption.mb-3 <b>Figura</b> Frameworks de desarrollo sobre <i>Playground</i>
+            figcaption.customCaption.mb-3 <b>Figura 3</b> Frameworks de desarrollo sobre <i>Playground</i>
             figure.mb-4
               img.shadow-box.nW.centered(src="@/assets/curso/t3-if1.jpg", alt="imagen decorativa") 
             figcaption Nota. Tomada y adaptada de los servicios de ayuda de <i>Playground</i>.
@@ -50,7 +50,7 @@
               p.mb-3  Para enlazar y visualizar el diseño desarrollado sobre <b><i>Playground</i>,</b> esta plataforma cuenta con un generador de códigos QR para cada uno de los proyectos que se están desarrollando.
               p Este código permite la vinculación y visualización del proyecto sobre cualquier dispositivo móvil que tenga instalado <b><i>NativeScript Playground</i> y <i>NativeScript preview</i>.</b>
             .col-lg-5
-              figcaption.customCaption.mb-3 <b>Figura</b> Frameworks de desarrollo sobre <i>Playground</i>
+              figcaption.customCaption.mb-3 <b>Figura 4</b> Frameworks de desarrollo sobre <i>Playground</i>
               figure.mb-4
                 img.nW.centered(src="@/assets/curso/t3-i4.jpg", alt="ejemplo de código QR") 
               figcaption Nota. Tomada de ejemplo real de ejecución en <i>My Playground</i>.
@@ -67,7 +67,7 @@
               p.mb-3  En la columna izquierda del entorno de desarrollo de <i>Playground</i>, se pueden encontrar todos los componentes que se utilizan, de manera directa, en la creación de la interfaz gráfica de la aplicación. 
               p Para poder utilizar estos elementos, basta con seleccionarlos, arrastrarlos y ubicarlos dentro del código, en el lugar que sea necesario utilizarlos. Estudie atentamente la figura que se le presenta e identifique los aspectos que conviene comprender en lo referente a construcción de la interfaz gráfica.
             .col-lg-5
-              figcaption.customCaption.mb-3 <b>Figura</b> Componentes de desarrollo gráfico
+              figcaption.customCaption.mb-3 <b>Figura 5</b> Componentes de desarrollo gráfico
               figure.mb-4
                 img.nW.centered.shadow-box(src="@/assets/curso/t3-i5.jpg", alt="ejemplo de componentes") 
               figcaption Nota. Tomada y adaptada de los servicios de ayuda de <i>Playground</i>.
@@ -88,7 +88,7 @@
           .col-md-10.mb-4.mb-md-0
             p.mb-4 Desde el soporte es posible, por ejemplo, acceder a documentos que se pueden utilizar como base o referente para el diseño de una aplicación.
           .col-lg-4  
-            figcaption.customCaption.mb-3 <b>Figura</b> Documentación ayuda y soporte de <i>Playground</i>
+            figcaption.customCaption.mb-3 <b>Figura 6</b> Documentación ayuda y soporte de <i>Playground</i>
             figure.mb-4
               img.shadow-box(src="@/assets/curso/t3-i6.jpg", alt="imagen decorativa") 
             figcaption Nota. Tomada y adaptada de los servicios de ayuda de <i>Playground</i>
@@ -97,7 +97,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             p.mb-4 Desde el soporte es posible, también, acceder al repositorio de plantillas y proyectos existentes que serán guía o modelo para favorecer el diseño de cualquier nueva aplicación.
-            figcaption.customCaption.mb-3 <b>Figura</b> Plantillas y proyectos para descargar 
+            figcaption.customCaption.mb-3 <b>Figura 7</b> Plantillas y proyectos para descargar 
             figure.mb-4
               img.shadow-box(src="@/assets/curso/t3-i7.jpg", alt="imagen decorativa") 
             figcaption Nota. Tomada de https://plugins.nativescript.rocks/samples
