@@ -51,8 +51,10 @@
             tr
               th Cómo es ejecutado JavaScript
               td Utiliza el  motor <i>Webkit</i> de <i>JavaScript Core</i> para ejecutar el código de la aplicación en iOS y el motor de <i>Google</i> V8 en <i>Android</i>
-    TabsB.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="<i>NativeScript</i>" :icono="require('@/assets/curso/t1-ic1.svg')")
+    
+    
+    TabsB.color-acento-contenido.mb-5.customTab
+      .py-4.py-md-5(titulo="NativeScript" :icono="require('@/assets/curso/t1-ic1.svg')")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p <b><i>NativeScript</i></b> soporta directamente el desarrollo con <b>Angular y Vue,</b> las cuales se pueden considerar como aplicaciones plenamente nativas, porque pueden utilizar las mismas API a las que tienen acceso las desarrolladas en <b>Xcode</b> o <b>Android Studio.</b> Para iniciar el diseño de una aplicación, se recomienda, como en este caso, trabajar el desarrollo de una interfaz de usuario sobre el lenguaje <b><i>NativeScript</i>.</b> Las aplicaciones <i>NativeScript</i> se construyen utilizando lenguajes de programación independientes del dispositivo y sistema operativo, como <b>JavaScript o TypeScript.</b>
