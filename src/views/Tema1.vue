@@ -26,7 +26,7 @@
             caption Nota. Tomada de Ancheta (2016).
             tr
               th Creadores 
-              td Telerik
+              td <i>Telerik</i>
             tr
               th Desarrollo de interfaz 
               td Los componentes de la interfaz de usuario están traducidos a sus contrapartes nativas
@@ -35,22 +35,22 @@
               td Emulador, dispositivo
             tr
               th Lenguaje de programación 
-              td Componentes de interfaz gráfica, subconjunto de CSS, JavaScript
+              td Componentes de interfaz gráfica, subconjunto de CSS, <i>JavaScript</i>
             tr
               th Acceso a elementos  nativos
-              td Acceso a la API nativa a través de JavaScript
+              td Acceso a la API nativa a través de <i>JavaScript</i>
             tr
               th Sistemas operativos que lo aceptan 
-              td Android e iOS. Windows Universal muy pronto
+              td <i>Android</i> e <i>iOS</i>. <i>Windows Universal</i> muy pronto
             tr
               th Frameworks y librerías utilizadas 
-              td Cualquiera librería que no dependa del navegador y esté basada en JavaScript 
+              td Cualquiera librería que no dependa del navegador y esté basada en <i>JavaScript</i> 
             tr
               th Patrón de codificación
               td Patrón MVC/MVVM 
             tr
               th Cómo es ejecutado JavaScript
-              td Utiliza el  motor Webkit de JavaScript Core para ejecutar el código de la aplicación en iOS y el motor de Google V8 en Android
+              td Utiliza el  motor <i>Webkit</i> de <i>JavaScript Core</i> para ejecutar el código de la aplicación en iOS y el motor de <i>Google</i> V8 en <i>Android</i>
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="<i>NativeScript</i>" :icono="require('@/assets/curso/t1-ic1.svg')")
         .row.justify-content-center.align-items-center
