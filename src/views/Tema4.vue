@@ -28,7 +28,7 @@
         .py-4.py-md-5(titulo="NativeScript preview" :icono="require('@/assets/curso/t4-ic2.svg')")
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              p <b><i>NativeScript preview</i></b> es la app que permite visualizar la aplicación en desarrollo sobre el dispositivo móvil y realizar la interacción con la interfaz gráfica y, en general, con todo el entorno desarrollado; crea la posibilidad de reconocer la aplicación que se encuentra en proceso de desarrollo, como si ya estuviese implementada y lista en producción.
+              p <b><i>NativeScript preview</i></b> es la app que permite visualizar la aplicación en desarrollo sobre el dispositivo móvil y realizar la interacción con la interfaz gráfica y, en general, con todo el entorno desarrollado; crea la posibilidad de reconocer la aplicación que se encuentra en proceso de desarrollo, como si esta ya estuviese implementada y lista en producción.
           
             .col-md-4
               figcaption.customCaption.mb-3 <b>Figura 9</b> Instalación de <i>NativeScript preview</i>
