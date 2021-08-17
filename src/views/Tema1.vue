@@ -15,7 +15,7 @@
                 img.nW(src="@/assets/curso/t1-i1.svg", alt="imagen decorativa") 
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Estas son las características del framework <i>NativeScript</i>. Se trata de una de las <b>más importantes y comunes herramientas para el desarrollo de aplicaciones móviles híbridas.</b>
+                p Estas son las características del <i>framework NativeScript</i>. Se trata de una de las <b>más importantes y comunes herramientas para el desarrollo de aplicaciones móviles híbridas.</b>
     .row.justify-content-center.mb-5
       .col-lg-10
         figcaption.customCaption.mb-3 <b>Tabla 1</b> Principales características de <i>NativeScript</i>

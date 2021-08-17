@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diseño de aplicación e informe de arquitectura',
     descripcionCurso:
-      'En este componente, al aprendiz recibirá una breve explicación sobre uno de los <i>frameworks</i> más utilizados por los desarrolladores y con mejores características de rendimiento; conocerá facilidades que dicha herramienta aporta al desarrollo de aplicaciones móviles híbridas y a la realización de pruebas de diseño y funcionalidad, en tiempo real y directamente sobre los dispositivos móviles iPhone y dispositivos Android.',
+      'En este componente, al aprendiz recibirá una breve explicación sobre uno de los <i>frameworks</i> más utilizados por los desarrolladores y con mejores características de rendimiento; conocerá facilidades que dicha herramienta aporta al desarrollo de aplicaciones móviles híbridas y a la realización de pruebas de diseño y funcionalidad, en tiempo real y directamente sobre los dispositivos móviles <i>iPhone</i> y dispositivos <i>Android</i>.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
