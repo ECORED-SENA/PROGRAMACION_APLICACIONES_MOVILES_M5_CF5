@@ -57,7 +57,7 @@
       .py-4.py-md-5(titulo="NativeScript" :icono="require('@/assets/curso/t1-ic1.svg')")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p <b><i>NativeScript</i></b> soporta directamente el desarrollo con <b>Angular y Vue,</b> las cuales se pueden considerar como aplicaciones plenamente nativas, porque pueden utilizar las mismas API a las que tienen acceso las desarrolladas en <b>Xcode</b> o <b>Android Studio.</b> Para iniciar el diseño de una aplicación, se recomienda, como en este caso, trabajar el desarrollo de una interfaz de usuario sobre el lenguaje <b><i>NativeScript</i>.</b> Las aplicaciones <i>NativeScript</i> se construyen utilizando lenguajes de programación independientes del dispositivo y sistema operativo, como <b>JavaScript o TypeScript.</b>
+            p <b><i>NativeScript</i></b> soporta directamente el desarrollo con <b>Angular y <i>Vue</i>,</b> las cuales se pueden considerar como aplicaciones plenamente nativas, porque pueden utilizar las mismas API a las que tienen acceso las desarrolladas en <b><i>Xcode</i></b> o <b><i>Android Studio</i>.</b> Para iniciar el diseño de una aplicación, se recomienda, como en este caso, trabajar el desarrollo de una interfaz de usuario sobre el lenguaje <b><i>NativeScript</i>.</b> Las aplicaciones <i>NativeScript</i> se construyen utilizando lenguajes de programación independientes del dispositivo y sistema operativo, como <b><i>JavaScript</i></b> o <b><i>TypeScript</i>.</b>
         
           .col-md-4
             figure(data-aos="flip-up")
@@ -66,7 +66,7 @@
       .py-4.py-md-5(titulo="Interacción directa con elementos nativos" :icono="require('@/assets/curso/t1-ic2.svg')")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La gran mayoría de las interfaces de usuario están definidas por archivos XML. Lo que hace <b><i>NativeScript</i></b> es utilizar la estructura de datos XML para representar la abstracción del código de la plataforma y lograr interactuar directamente con los elementos nativos del sistema operativo sobre el cual se está desarrollando, es decir, se hace pasar como un lenguaje nativo llamando los elementos del API, sin importar si es iOS o Android. Esta característica es lo que hace que este sea uno de los <b>frameworks</b> más utilizados y con mayor crecimiento. También mejora los tiempos de desarrollo y los tiempos de respuesta; no existe mucha diferencia en el rendimiento entre una aplicación nativa y una híbrida desarrollada con <b><i>NativeScript</i>.</b>
+            p La gran mayoría de las interfaces de usuario están definidas por archivos XML. Lo que hace <b><i>NativeScript</i></b> es utilizar la estructura de datos XML para representar la abstracción del código de la plataforma y lograr interactuar directamente con los elementos nativos del sistema operativo sobre el cual se está desarrollando, es decir, se hace pasar como un lenguaje nativo llamando los elementos del API, sin importar si es iOS o Android. Esta característica es lo que hace que este sea uno de los <b><i>frameworks</i></b> más utilizados y con mayor crecimiento. También mejora los tiempos de desarrollo y los tiempos de respuesta; no existe mucha diferencia en el rendimiento entre una aplicación nativa y una híbrida desarrollada con <b><i>NativeScript</i>.</b>
         
           .col-md-4
             figure(data-aos="flip-up")
@@ -75,7 +75,7 @@
       .py-4.py-md-5(titulo="Escritura del código fuente" :icono="require('@/assets/curso/t1-ic3.svg')")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p El código fuente de las aplicaciones desarrolladas con este framework está escrito en JavaScript, TypeScript o Angular. Este código fuente no será compilado, será ejecutado sobre el dispositivo. Por esa razón, al no ser compilado, las aplicaciones <i>NativeScript</i> serán ejecutadas directamente, sin necesidad de la manipulación del DOM o interacción con el navegador del dispositivo que interpreta, usando el motor de renderizado de la plataforma o dispositivo; esto proporciona una experiencia de usuario verdaderamente nativa, cerrando la brecha entre los desarrollos nativos y los híbridos.
+            p El código fuente de las aplicaciones desarrolladas con este <i>framework</i> está escrito en <i>JavaScript</i>, <i>TypeScript</i> o <i>Angular</i>. Este código fuente no será compilado, será ejecutado sobre el dispositivo. Por esa razón, al no ser compilado, las aplicaciones <i>NativeScript</i> serán ejecutadas directamente, sin necesidad de la manipulación del DOM o interacción con el navegador del dispositivo que interpreta, usando el motor de renderizado de la plataforma o dispositivo; esto proporciona una experiencia de usuario verdaderamente nativa, cerrando la brecha entre los desarrollos nativos y los híbridos.
         
           .col-md-4
             figure(data-aos="flip-up")
@@ -84,7 +84,7 @@
       .py-4.py-md-5(titulo="Control de la plataforma nativa" :icono="require('@/assets/curso/t1-ic4.svg')")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Las principales partes del framework <i>NativeScript</i> son una máquina virtual, JavaScript, un ejecutor y un módulo de puente; estos son los elementos que logran realizar “la magia”. El código de JavaScript es ejecutado e interpretado por la máquina virtual. Al instante, el módulo de puente realiza la tradicional llamada a las API específicas de la plataforma y retorna los resultados a las funciones solicitadas. Para dejarlo claro, <i>NativeScript</i> proporciona a los desarrolladores una forma de controlar la plataforma nativa a través de JavaScript en vez de Objective-C en iOS o Java en Android.<br>(Atanasov, 2016)
+            p Las principales partes del <i>framework NativeScript</i> son una máquina virtual, <i>JavaScript</i>, un ejecutor y un módulo de puente; estos son los elementos que logran realizar “la magia”. El código de <i>JavaScript</i> es ejecutado e interpretado por la máquina virtual. Al instante, el módulo de puente realiza la tradicional llamada a las API específicas de la plataforma y retorna los resultados a las funciones solicitadas. Para dejarlo claro, <i>NativeScript</i> proporciona a los desarrolladores una forma de controlar la plataforma nativa a través de <i>JavaScript</i> en vez de <i>Objective-C</i> en <i>iOS</i> o <i>Java</i> en <i>Android</i>.<br>(Atanasov, 2016)
         
           .col-md-4
             figure(data-aos="flip-up")

@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span  2
-      h1 Diseño y desarrollo sobre Playground
+      h1 Diseño y desarrollo sobre <i>Playground</i>
     .row.align-items-center.justify-content-center.mb-5.slideInLeft
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
@@ -14,12 +14,12 @@
             :style="{'background-image': `url(${require('@/assets/curso/t2-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La primera actividad a realizar es la configuración del entorno de trabajo para <b><i>NativeScript</i></b> junto con las herramientas necesarias para la codificación de la interfaz gráfica del proyecto que permitan la visualización sobre dos sistemas operativos, en este caso <b>iOS y Android.</b>
+            p.mb-0 La primera actividad a realizar es la configuración del entorno de trabajo para <b><i>NativeScript</i></b> junto con las herramientas necesarias para la codificación de la interfaz gráfica del proyecto que permitan la visualización sobre dos sistemas operativos, en este caso <b><i>iOS</i> y <i>Android</i>.</b>
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10   
         .tarjeta.color-light-blue.p-4
-          p.mb-4 Se procede a realizar el trabajo sobre la plataforma web Playground; este es un entorno web de <i>NativeScript</i> que permite el desarrollo de aplicaciones sin la necesidad de instalación de programas. Esa es una de las grandes ventajas de este framework. No es necesario contar con una máquina de desarrollo con características de alta gama para realizar la creación de una aplicación satisfactoria.
+          p.mb-4 Se procede a realizar el trabajo sobre la plataforma web <i>Playground</i>; este es un entorno web de <i>NativeScript</i> que permite el desarrollo de aplicaciones sin la necesidad de instalación de programas. Esa es una de las grandes ventajas de este <i>framework</i>. No es necesario contar con una máquina de desarrollo con características de alta gama para realizar la creación de una aplicación satisfactoria.
           .row.justify-content-center.mb-4
             .col-lg-10
               figcaption.customCaption.mb-3 <b>Figura 1</b> Entorno de desarrollo <i>NativeScript Playground</i>
