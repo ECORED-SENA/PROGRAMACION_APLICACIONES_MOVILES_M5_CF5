@@ -15,7 +15,7 @@
                 img.nW(src="@/assets/curso/t3-i1.svg", alt="imagen decorativa") 
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p <b><i>Playground</i></b> cuenta con unos elementos esenciales para el proceso de desarrollo de aplicaciones móviles híbridas; crea el nuevo proyecto y permite elegir el <b>framework</b> con el cual se desea desarrollar la aplicación.
+                p <b><i>Playground</i></b> cuenta con unos elementos esenciales para el proceso de desarrollo de aplicaciones móviles híbridas; crea el nuevo proyecto y permite elegir el <b><i>framework</i></b> con el cual se desea desarrollar la aplicación.
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Componentes del entorno de desarrollo en Playground")
