@@ -144,6 +144,7 @@ export default {
     },
     {
       termino: 'Frameworks',
+      termHTML: '<i>Frameworks</i>',
       significado:
         'Es una compilación de conceptos estructurados que brindan un soporte tecnológico conformado por módulos, librerías y paquetes de <i>software</i> que buscan servir como la base para la organización y desarrollo de <i>software</i>; lo que hacen estas herramientas es facilitar la programación de aplicaciones y <i>software</i> en general.',
     },
