@@ -143,7 +143,7 @@ export default {
         'El emulador permite realizar las pruebas sobre un entorno simulado de un dispositivo móvil, permitiendo la versatilidad de trabajar sobre varias versiones de sistemas operativos y diferentes modelos de <i>smartphone</i> para probar su rendimiento y funcionalidad en la etapa de diseño y desarrollo.',
     },
     {
-      termino: '<i>Frameworks</i>',
+      termino: 'Frameworks',
       significado:
         'Es una compilación de conceptos estructurados que brindan un soporte tecnológico conformado por módulos, librerías y paquetes de <i>software</i> que buscan servir como la base para la organización y desarrollo de <i>software</i>; lo que hacen estas herramientas es facilitar la programación de aplicaciones y <i>software</i> en general.',
     },

@@ -30,9 +30,9 @@
       .py-3.py-md-4(titulo="Frameworks de desarrollo en Playground")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
-            p.mb-4 Reconozca, en esta figura, los frameworks de desarrollo en <i>Playground</i> para el proceso de desarrollo de una aplicación móvil híbrida, aplicable a su proyecto personal de aplicación móvil.
+            p.mb-4 Reconozca, en esta figura, los <i>frameworks</i> de desarrollo en <i>Playground</i> para el proceso de desarrollo de una aplicación móvil híbrida, aplicable a su proyecto personal de aplicación móvil.
           .col-lg-5
-            figcaption.customCaption.mb-3 <b>Figura 3</b> Frameworks de desarrollo sobre <i>Playground</i>
+            figcaption.customCaption.mb-3 <b>Figura 3</b> <i>Frameworks</i> de desarrollo sobre <i>Playground</i>
             figure.mb-4
               img.shadow-box.nW.centered(src="@/assets/curso/t3-if1.jpg", alt="imagen decorativa") 
             figcaption Nota. Tomada y adaptada de los servicios de ayuda de <i>Playground</i>.
