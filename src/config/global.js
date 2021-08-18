@@ -223,6 +223,12 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
+        nombre: 'Jorge Armando Villamizar Moreno',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
@@ -246,14 +252,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Jorge Armando Villamizar Moreno',
-        cargo: 'Diseño web',
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Luis Fabian Robles Méndez',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrés Mauricio Santaella',
+        cargo: 'Soporte Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
